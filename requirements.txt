@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+PyMuPDF
+pytesseract
+opencv-python-headless
+Pillow
+pytest
